@@ -1,0 +1,86 @@
+body {
+ background-color: lightcyan;
+
+}
+.index {
+display: flex;
+flex-direction: column;
+align-items: center;
+  justify-content: center;
+}
+.all_tx {
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+
+ background-color: turquoise;
+}
+
+.tx_inside {
+flex-wrap: wrap;
+  display: flex;
+ background-color: azure;
+border: 1px solid black;
+justify-content: space-around;
+}
+
+.input_inside {
+ display: flex;
+ 
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+}
+.sum {
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+
+}
+.output_inside {
+ display: flex;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+}
+
+h5 {
+text-align: center;
+}
+h3 {
+text-align: center;
+}
+.input {
+position: relative;
+right: 5px;
+left: 5px;
+}
+.output {
+position: relative;
+
+right: 5px;
+left: 5px;
+}
+.fee {
+position: relative;
+
+right: 0;
+bottom: 0;
+}
+.address {
+ padding-right: 5px;
+ padding-top: 5px;
+ padding-bottom: 5px;
+
+}
+.value {
+text-decoration-line: underline;
+  padding-bottom: 5px;
+  padding-left: 5px;
+ padding-right: 5px;
+padding-top: 5px;
+}
