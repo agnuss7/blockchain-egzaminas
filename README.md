@@ -4,3 +4,5 @@ Paprastas blokchain'o tyrinėjimo puslapis pasiekiamas 158.129.140.201:8080/ . P
 ### Priemonės
 - žiniatinklio programų sistema - CherryPy
 - blockchain'ui naršyt - python-bitcoinlib
+### Funkcionalumai
+Paieska pagal bloko hash'a ar jo tranzakciju hash'us. Bloko antrastes ir jo tranzakciju info perziura.
